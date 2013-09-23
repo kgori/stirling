@@ -1,8 +1,5 @@
 #!/usr/bin/env python
 
-import math
-
-
 class Stirling(object):
 
     """ Stirling numbers of the first and second kind, as used in Ane et al.
